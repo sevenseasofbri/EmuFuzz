@@ -1,5 +1,7 @@
 # EmuFuzz
 
+_Project for CS6223 by Vishruti Ranjan (@sevenseasofbri) and Mausam Piyush Vora (@mausamvo)_
+
 EmuFuzz is a structure-aware fuzzer for CPU emulators, specifically for the ARM32 ISA. It uses LibFuzzer as its core fuzzing engine and custom structure-aware mutations. 
 
 # Setup
